@@ -1,10 +1,9 @@
 <header>
-    <h1>Hi there, I'm <span>Noureen</span>! 👋</h1>
+    <h1>align="center" Hi there, I'm <span>Noureen</span>! 👋</h1>
 </header>
 
 <section>
-    <h2>Get in Touch</h2>
-    <p>Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
+    <p>::marker Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
 </section>
 
 <section>
