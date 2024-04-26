@@ -18,7 +18,7 @@
 </section>
 
 <div>
-   <h2>Skills</h2>
+   <h2>Languages and Tools</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -32,11 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/>
 </div>
-
-<section>
-    <h2>Github Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/>
-</section>
-
-
