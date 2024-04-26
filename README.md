@@ -32,6 +32,12 @@
 </div>
 
 <section>
+    <h2>Github Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Github Stats" />
+</section>
+
+
+<section>
     <h2>Get in Touch</h2>
     <p>Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
 </section>
