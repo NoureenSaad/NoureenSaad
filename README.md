@@ -38,11 +38,7 @@
 
 <section>
     <h2>Github Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=NoureenSaad&hide=language,stars&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&show_icons=true&theme=radical" alt="Most Used Languages"/>
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoureenSaad&theme=radical" alt="Github Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/>
 </section>
 
 
