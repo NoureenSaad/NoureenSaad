@@ -5,8 +5,8 @@
 <section>
     <h2>Find Me</h2>
     <ul>
-      <li><a href="www.linkedin.com/in/noureen-saad-073239276"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>LinkedIn</a></li>
-      <li><a href="https://www.facebook.com/noureen.saad.56"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>Facebook</a></li>
+      <li><a href="www.linkedin.com/in/noureen-saad-073239276"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a></li>
+      <li><a href="https://www.facebook.com/noureen.saad.56"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a></li>
     </ul>
 </section>
 
