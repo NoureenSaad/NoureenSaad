@@ -3,7 +3,7 @@
 </header>
 
 <section>
-    <p ::marker> Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
+    <p>📫 Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
 </section>
 
 <section>
