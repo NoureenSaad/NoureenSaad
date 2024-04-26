@@ -38,9 +38,7 @@
 
 <section>
     <h2>Github Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=NoureenSaad&show_icons=false&count_private=true&theme=radical" alt="GitHub Stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=NoureenSaad&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NoureenSaad&hide=language,stars&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&show_icons=true&theme=radical" alt="Most Used Languages"/>
     <br>
