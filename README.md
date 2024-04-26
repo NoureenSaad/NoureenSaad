@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center"> Hi there, I'm <span>Noureen</span>! 👋</h1>
+    <h1 align="center"> Hi there, I'm <span>Noureen</span>!</h1>
 </header>
 
 <section>
