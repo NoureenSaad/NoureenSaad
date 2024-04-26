@@ -3,6 +3,11 @@
 </header>
 
 <section>
+    <h2>Get in Touch</h2>
+    <p>Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
+</section>
+
+<section>
     <h2>Find Me</h2>
     <p align="left" dir="auto">
       <a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
@@ -33,11 +38,7 @@
 
 <section>
     <h2>Github Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NoureenSaad&show_icons=true&theme=radical" alt="Github Stats" />
 </section>
 
 
-<section>
-    <h2>Get in Touch</h2>
-    <p>Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
-</section>
