@@ -10,10 +10,10 @@
 <section>
     <h2>Find Me</h2>
       <a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
-        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Noureen Saad" width="35" height="35"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Noureen Saad" width="40" height="40"/>
       </a>
       <a href="https://www.facebook.com/noureen.saad.56" rel="nofollow">
-        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Noureen Saad" width="35" height="35"/>
+        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Noureen Saad" width="40" height="40"/>
       </a>
 </section>
 
