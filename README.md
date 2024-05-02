@@ -1,18 +1,16 @@
-<header>
-    <h1 align="center"> Hi there, I'm <span>Noureen</span>!</h1>
-    <h3 align="center">Flutter Developer</h3>
-    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
-</header>
+<h1 align="center"> Hi there, I'm <span>Noureen</span>!</h1>
+<h2 align="center">Flutter Developer</h2>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
 
 📫 Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!
 
-<h2>Find Me</h2>
-    <a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
-        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Noureen Saad" width="40" height="40"/>
-    </a>
+<h3>Find Me</h3>
+<p align="left">
+<a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Noureen Saad" width="40" height="40"/>
+</a>
 
-<div>
-   <h2>Languages and Tools</h2>
+<h3>Languages and Tools</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -26,7 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/>
-</div>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureenSaad&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/>
