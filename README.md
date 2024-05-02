@@ -1,5 +1,7 @@
 <header>
     <h1 align="center"> Hi there, I'm <span>Noureen</span>!</h1>
+    <h3 align="center">Flutter Developer</h3>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
 </header>
 
 <section>
@@ -10,9 +12,6 @@
     <h2>Find Me</h2>
       <a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
         <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Noureen Saad" width="40" height="40"/>
-      </a>
-      <a href="https://www.facebook.com/noureen.saad.56" rel="nofollow">
-        <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Noureen Saad" width="40" height="40"/>
       </a>
 </section>
 
