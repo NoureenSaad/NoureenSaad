@@ -4,16 +4,12 @@
     <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
 </header>
 
-<section>
-    <p>📫 Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!</p>
-</section>
+📫 Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!
 
-<section>
-    <h2>Find Me</h2>
-      <a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
+<h2>Find Me</h2>
+    <a href="www.linkedin.com/in/noureen-saad-073239276" rel="nofollow">
         <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Noureen Saad" width="40" height="40"/>
-      </a>
-</section>
+    </a>
 
 <div>
    <h2>Languages and Tools</h2>
