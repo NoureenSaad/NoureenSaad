@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm <span>Noureen</span></h1>
-<h2 align="center">Software Engineer || CS Student</h2>
+<h2 align="center">Software Engineer || CS Graduate</h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
 
 📫 Feel free to reach out to me via <a href="mailto:noureensaad086@gmail.com">email</a> if you have any questions or collaboration opportunities!
